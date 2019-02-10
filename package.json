@@ -1,7 +1,7 @@
 {
-  "name": "sleep",
+  "name": "microsleep",
   "version": "1.0.0",
-  "description": "sleep and nanosleep for node",
+  "description": "microsleep for node",
   "main": "index.js",
   "scripts": {
     "install": "make",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bobnil/node-sleep.git"
+    "url": "git+https://github.com/bobnil/node-microsleep.git"
   },
   "keywords": [
-    "sleep", "nanosleep"
+    "microsleep", "sleep", "nanosleep"
   ],
     "dependencies": {
     "nan": "2.10.*"
@@ -20,7 +20,7 @@
   "author": "bobnil",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bobnil/node-sleep/issues"
+    "url": "https://github.com/bobnil/node-microsleep/issues"
   },
-  "homepage": "https://github.com/bobnil/node-sleep/"
+  "homepage": "https://github.com/bobnil/node-microsleep/"
 }
