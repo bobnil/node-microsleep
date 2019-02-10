@@ -1,5 +1,5 @@
 {
-  "name": "microsleep",
+  "name": "@bobnil/microsleep",
   "version": "1.0.0",
   "description": "microsleep for node",
   "main": "index.js",
