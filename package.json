@@ -1,0 +1,26 @@
+{
+  "name": "sleep",
+  "version": "1.0.0",
+  "description": "sleep and nanosleep for node",
+  "main": "index.js",
+  "scripts": {
+    "install": "make",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobnil/node-sleep.git"
+  },
+  "keywords": [
+    "sleep", "nanosleep"
+  ],
+    "dependencies": {
+    "nan": "2.10.*"
+  },
+  "author": "bobnil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobnil/node-sleep/issues"
+  },
+  "homepage": "https://github.com/bobnil/node-sleep/"
+}
